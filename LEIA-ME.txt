@@ -1,0 +1,57 @@
+PiP Flutuante — extensão do Chrome
+===================================
+
+COMO INSTALAR
+1. Extraia o .zip numa pasta fixa (ex.: F:\Extensoes\pip-flutuante). Não apague essa pasta depois.
+2. No Chrome, abra: chrome://extensions
+3. Ative "Modo do desenvolvedor" (canto superior direito).
+4. Clique em "Carregar sem compactação" e selecione a pasta pip-flutuante.
+5. (Opcional) Fixe o ícone azul na barra: ícone de quebra-cabeça > alfinete.
+
+COMO USAR
+- Passe o mouse sobre qualquer vídeo e clique em "Flutuar".
+- Ou aperte Alt+P na página. Ou clique no ícone da extensão.
+- A janela fica por cima de todos os programas. Arraste pelas bordas para redimensionar.
+
+ABERTURA AUTOMÁTICA
+- Com um vídeo tocando, troque de aba ou minimize o Chrome: a janela abre sozinha
+  (na primeira vez o Chrome pode pedir permissão de "Picture-in-picture automático" — permita).
+- Ao voltar para a aba, a janela que abriu sozinha fecha.
+- Para desligar: engrenagem > "Abrir sozinha ao sair da aba", ou clique com o botão
+  direito no ícone da extensão e desmarque a opção.
+
+CONFIGURAÇÕES (engrenagem)
+- Iluminação cinematográfica, Legendas/CC (idioma e tradução automática), Timer de
+  suspensão, Velocidade e Qualidade (no YouTube).
+
+TELA CHEIA
+- Botão de tela cheia (canto inferior direito), tecla F ou duplo clique no vídeo.
+- O Chrome não permite tela cheia numa janela flutuante (e limita o tamanho a 80% da tela),
+  então o botão devolve o vídeo para a aba e pede tela cheia lá.
+- Se o Chrome recusar (ele exige um clique feito na própria aba), aparece o aviso
+  "Clique no vídeo (ou aperte uma tecla)": o próximo clique ou tecla entra em tela cheia.
+  Esc cancela. Para voltar à janela flutuante, saia da tela cheia (Esc) e use Alt+P.
+
+ATALHOS DENTRO DA JANELA
+Espaço/K  play/pause          ← / →   5s           J / L   10s
+↑ / ↓     volume              M       mudo         C       legendas
+Shift+N   próximo vídeo       Shift+P anterior     < / >   velocidade
+F         tela cheia          Esc     fecha menus / sai da tela cheia
+Roda do mouse = volume
+
+NO INSTAGRAM
+- Na barra de ações do post (curtir, comentar, compartilhar, salvar) aparece um pequeno
+  ícone de download ao lado do "Salvar". Baixa o vídeo ou a foto para Downloads\Instagram.
+- Em carrossel, baixa o item que está na tela (se não conseguir identificar, baixa todos).
+- Precisa estar logado no Instagram. Usa a permissão "downloads" do Chrome.
+
+NO YOUTUBE
+- Botão de lista: mostra a playlist (ou "A seguir"); clique num vídeo para tocar.
+- Próximo/anterior seguem a playlist; aparece "Pular anúncio" quando disponível.
+
+ATUALIZAR SEM QUEBRAR
+- Substituiu os arquivos ou mudou algo? Clique no ícone de recarregar da extensão em
+  chrome://extensions. Ela se reinstala sozinha em todas as abas abertas (não precisa F5),
+  e uma janela flutuante já aberta continua funcionando até você fechá-la.
+
+Requer Chrome 116 ou superior.
